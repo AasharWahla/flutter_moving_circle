@@ -1,6 +1,8 @@
-# fluttermovingcircle
+# Flutter Moving Circle
 
-A new Flutter application.
+This is a beginner project which I built just to test my basic knowledge. 
+
+![Moving Dot Flutter App](/gif/gif-movingdot.gif)
 
 ## Getting Started
 
